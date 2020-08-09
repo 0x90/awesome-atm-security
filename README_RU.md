@@ -27,12 +27,15 @@ CVE-2018-5717, CVE-2017-17668
 
 https://www.rewterz.com/threats/flaws-in-atm-dispenser-controllers-allowed-hackers-to-steal-cash
 
+https://www.ncr.com/content/dam/ncrcom/content-type/case_studies/ncr_security_alert_-_2018-04_v3.pdf
+
 https://www.ncr.com/content/dam/ncrcom/content-type/documents/NCR_Security_Alert-2018-13_APTRA_XFS_v5.pdf
 
 https://www.ncr.com/content/dam/ncrcom/content-type/brochures/17fin5025_a_sec_rqts_protect_logical_attacks_wp.pdf
 
 http://images.response.ncr.com/Web/NCRGlobal/%7B18bc5b2d-2bbb-4016-be87-33043d92d17c%7D_FIN_Security_Alerts_Currency_Dispenser_WP_091218.pdf
 
+https://i.blackhat.com/us-18/Thu-August-9/us-18-Stennikov-Blackbox-is-dead--Long-live-Blackbox!.pdf
 
 ### Jackpoing
 
@@ -80,3 +83,6 @@ https://github.com/fireeye/capa
 
 https://github.com/fireeye/capa-rules/tree/master/targeting/automated-teller-machine
 
+###
+
+[APTRA NDC симулятор](https://github.com/timgabets/electron-atm)
